@@ -1,6 +1,19 @@
-# fetch_api_data
+# Fetch API data using GetX
+# Donate
 
-Fetch Api Data
+> If you found this project helpful or you learned something from the source code and want to thank me, consider buying me a cup of :coffee:
+>
+> - [PayPal](https://paypal.me/ripplescode)
+
+## GetX Video Tutorials
+
+[Watch here](https://www.youtube.com/playlist?list=PLCaS22Sjc8YR32XmudgmVqs49t-eKKr9t)
+
+
+### YouTube Channel
+
+[RipplesCode](https://www.youtube.com/channel/UCF7RTcfO02xQ94cWH6C35bg)
+
 
 ## Getting Started
 
